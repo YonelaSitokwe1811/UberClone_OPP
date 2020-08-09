@@ -1,0 +1,14 @@
+licenseID, name, surname, phone_number, cash, numberPlate, color, model, type
+license123, amahle, Bambalaza, 0736737271, 1000, ca123, red, ferrari, X
+license124, yonela, Stokwe, 0736737272, 2000, ca124, purple, lamborghini, X
+license125, bongo, mathambeka, 0736737274, 3000, ca125, blue, bmwX5, XL
+license126, luvo, lobese, 0736737275, 5000, ca115, yellow, Bugati, X
+license127, nabo, nyamankulu, 0736737215, 9000, ca515, black, GWagon, XL
+license128, zukhanye, mkweso, 0736712215, 12000, cp915, silver, AudiRS8, X
+license129, inga, khabingesi, 0736712125, 12001, ct015, lime, AstonMartin, X
+license139, sandiso, matee, 0836712125, 12002, cpt015, grey, bmwX6, XL
+license149, onezwa, gwantshu, 0836712126, 12020, cpt025, black, RS3, XL
+license150, lihko, mandila, 0936712126, 12030, cpt025, red, Toyota chr, XL
+license151, sine, tshape, 0136712126, 12050, cpt029, grey, TeslaModelX, X
+license152, luko, bomvana, 0934712126, 12930, cpt035, lightblue, RangeRover, XL
+license153, nolly, kula, 0934712129, 13930, cpt045, blue, RangeRoverSportV8, XL
